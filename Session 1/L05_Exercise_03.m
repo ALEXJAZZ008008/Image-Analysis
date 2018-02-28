@@ -275,7 +275,7 @@ hd = msgbox(cellstr(message), 'Approximations');
 
 pause
 
-clear all
-close all
+%clear all
+%close all
 
 clc

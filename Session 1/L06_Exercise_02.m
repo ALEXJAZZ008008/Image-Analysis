@@ -47,8 +47,8 @@ Compression_Ratio = original_array_size/RLE_array_size
 
 pause
 
-clear all
-close all
+%clear all
+%close all
 
 clc
     

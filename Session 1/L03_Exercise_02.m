@@ -114,8 +114,8 @@ set(hd, 'position', [300 300 250 100]);
 
 input('\nEnter to finish');
 
-clear all
-close all
+%clear all
+%close all
 
 clc
 

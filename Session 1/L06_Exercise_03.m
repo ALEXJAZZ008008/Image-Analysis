@@ -92,8 +92,8 @@ set(hd, 'position', [300 300 300 150]);
 
 pause
 
-clear all
-close all
+%clear all
+%close all
 
 clc
 

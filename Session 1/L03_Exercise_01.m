@@ -59,7 +59,7 @@ end
 
 input('\nEnter to finish');
 
-clear all
-close all
+%clear all
+%close all
 
 clc

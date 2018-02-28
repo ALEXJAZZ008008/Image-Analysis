@@ -343,5 +343,5 @@ set(hd, 'position', [300 300 350 150]);
 
 pause
 
-clear all
-close all
+%clear all
+%close all

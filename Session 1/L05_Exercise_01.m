@@ -189,7 +189,7 @@ for i=1:4
     
 end
 
-clear all
-close all
+%clear all
+%close all
 
 clc

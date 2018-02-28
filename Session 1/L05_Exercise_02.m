@@ -196,7 +196,7 @@ set(hToolFig, 'Name', 'Difference Using Cosine Filter');
 
 pause
 
-clear all
-close all
+%clear all
+%close all
 
 clc

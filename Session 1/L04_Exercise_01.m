@@ -131,6 +131,6 @@ end
 
 input('\nEnter to finish');
 
-clear all
+%clear all
 
 clc
